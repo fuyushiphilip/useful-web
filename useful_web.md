@@ -28,3 +28,8 @@ https://livekit.io/
 ### cobalt
 
 https://github.com/imputnet/cobalt
+
+
+### PaddleOCC
+
+https://github.com/PaddlePaddle/PaddleOCR
