@@ -32,4 +32,4 @@ https://github.com/imputnet/cobalt
 
 ### PaddleOCC
 
-https://github.com/PaddlePaddle/PaddleOCR
+https://github.com/PaddlePaddle/PaddleOCR 
