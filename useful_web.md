@@ -1,4 +1,4 @@
-### Algorithm Visualizations
+### Algorithm Visualizationsn
 
 https://rosulek.github.io/vamonos/demos/index.html
 
