@@ -3,7 +3,7 @@ Founded in 2021, Socket Labs is a tech startup building infrastructure to make i
 
 ---
 
-#FrontEnd
+# FrontEnd
 
 What are we all about? We are a team of builders and researchers on a mission to empower enterprises and developers worldwide to access and build on decentralized systems. Our expertise covers several domains: Ethereum and Starknet protocol engineering, layer-2, cryptography research, protocol research, decentralized finance (DeFi), security auditing, formal verification, real-time monitoring, smart contract development, and dapps and enterprise engineering. Working to solve some of the most challenging problems in the blockchain space, we frequently collaborate with, such as Ethereum Foundation, Starknet Foundation, Gnosis Chain, Flashbots, Forta Protocol, Lido, EigenLayer, Open Zeppelin, RISCZero, Aleph Zero, and many more. Today, we are a 350+ strong team working remotely across 66+ countries. View all our open positions here: https://www.nethermind.io/open-roles
 
